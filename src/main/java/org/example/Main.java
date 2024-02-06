@@ -1,8 +1,9 @@
 package org.example;
 
 // Klavyeden girilen "Affine Şifre" algoritmasıyla şifrelenmiş kelimeyi belirtilen anahtarlara göre çözümleyen program
-// GXINB - a -> 5 b -> 1 = BURSA
-//SVZPIQBF - s -> 5 -> 1 = TEKIRDAG
+// GXINB   - a -> 5 b -> 1 = BURSA
+// SVZPIQBF  - s -> 5 -> 1 = TEKIRDAG
+// PNSBOGXE - a -> 5 b - 1 = ISTANBUL
 
 import java.util.Scanner;
 
